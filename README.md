@@ -387,6 +387,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 104. [Install TorchCP Locally - Python Toolbox for Conformal Prediction on Deep Learning Models](https://www.youtube.com/watch?v=kdLnlafHAMI&t=307s) by Fahd Mirza (2024)
 105. [Conformal Prediction: uncertainty quantification to humanise models](https://www.youtube.com/watch?v=EJVD-jU1A44) by Vincenzo Ventriglia (2025) 🔥🔥🔥🔥🔥
 109.
+110. [AURA - calibrated per-splat confidence + certified split-conformal pruning for 3D Gaussian-splat assets](https://github.com/Archerkattri/aura) by Krishi Attri (2026)
 
 ## Conformal Prediction Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
