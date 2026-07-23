@@ -388,6 +388,7 @@ Leo Dreyfus-Schmidt (Dataiku, 2020). 🔥🔥🔥🔥🔥
 105. [Conformal Prediction: uncertainty quantification to humanise models](https://www.youtube.com/watch?v=EJVD-jU1A44) by Vincenzo Ventriglia (2025) 🔥🔥🔥🔥🔥
 109.
 110. [AURA - calibrated per-splat confidence + certified split-conformal pruning for 3D Gaussian-splat assets](https://github.com/Archerkattri/aura) by Krishi Attri (2026)
+111. [toothprint - certified dental biometric identity/change/surface from 3D intraoral scans and radiographs: conformal accept/abstain with a finite-sample false-match guarantee, validated on synthetic re-scans](https://github.com/Archerkattri/toothprint) by Krishi Attri (2026)
 
 ## Conformal Prediction Presentation Slides
 1. [Machine Learning for Probabilistic Prediction, Seattle Artificial Intelligence Workshops Meetup](https://www.researchgate.net/publication/371566526_Machine_Learning_for_Probabilistic_Prediction) by Valery Manokhin, 2023 🔥🔥🔥🔥🔥
